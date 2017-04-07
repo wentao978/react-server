@@ -1,0 +1,8 @@
+{
+  "presets": ["es2015", "react", "stage-0"],
+  "plugins": [
+    "transform-es2015-modules-commonjs-simple",
+    "transform-runtime",
+    "babel-root-import"
+  ]
+}
